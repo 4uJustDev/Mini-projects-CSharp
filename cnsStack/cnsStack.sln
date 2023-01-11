@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cnsStack", "cnsStack\cnsStack.csproj", "{0C543F20-2228-49C1-A89D-98F4E451B624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C543F20-2228-49C1-A89D-98F4E451B624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C543F20-2228-49C1-A89D-98F4E451B624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C543F20-2228-49C1-A89D-98F4E451B624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C543F20-2228-49C1-A89D-98F4E451B624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2FAA15E-A2BB-4C1C-B7BB-B366927A8E73}
+	EndGlobalSection
+EndGlobal
