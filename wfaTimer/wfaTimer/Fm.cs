@@ -101,6 +101,11 @@ namespace wfaTimer
             pbUp.Value = (int)x.TotalSeconds;
             pbUpMs.Value = (int)x.TotalMilliseconds;
         }
+
+        private void buUp_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
